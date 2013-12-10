@@ -11,7 +11,7 @@
     "dependencies": {
         "architect": "~0.1.4",
         "vfs-local": "~0.3.4",
-        "vfs": "git://github.com/c9/vfs.git#078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
+        "vfs": "https://github.com/c9/vfs/tarball/078762a9e5fe6f4652a3c0a81ff65bb3bea1dd08"
     },
 
     "repository" : {
